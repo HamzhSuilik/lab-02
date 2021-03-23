@@ -1,0 +1,43 @@
+main{
+    background-color: aqua;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    font-size: 35px;
+    color: blue;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+#id1>section{
+    float: left;
+    border: 2px red solid;
+    width: 200px;
+    height: 330px;
+    margin: 25px;
+
+    padding: 3px;
+    border-radius: 8px;
+
+}
+
+#id1>section>h2{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    height: 55px;
+}
+
+#id1>section>p{
+    color: blue;
+    padding-top: 15px;
+    text-align: center;
+}
