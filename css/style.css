@@ -21,7 +21,7 @@ img{
     float: left;
     border: 2px red solid;
     width: 200px;
-    height: 330px;
+    height: 350px;
     margin: 25px;
 
     padding: 3px;
@@ -40,4 +40,23 @@ img{
     color: blue;
     padding-top: 15px;
     text-align: center;
+}
+
+#radio_section>label{
+    color: rgb(54, 14, 231);
+    font-size: 25px;
+}
+
+#btn_1,#btn_2{
+    background-color: aqua;
+    font-size: 30px;
+    border: 2px red dashed;
+    border-radius: 15px;
+    padding: 8px;
+    margin-left: 20px;
+}
+
+
+#btn_1:hover,#btn_2:hover{
+    background-color: rgb(0, 17, 255);
 }
